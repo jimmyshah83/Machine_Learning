@@ -1,0 +1,22 @@
+
+Machine learning project/.DS_Store
+Machine learning project/Report/.DS_Store
+*.zip
+*.mov
+*.pdf
+*.csv
+Week 01/.DS_Store
+Week 02/.DS_Store
+*.pyc
+*.tgz
+Week 03/.DS_Store
+*.xls
+Week 04/.DS_Store
+*.txt
+*.bak
+Week 05/.DS_Store
+Week 09/checkpoint
+*.data-00000-of-00001
+*.index
+*.meta
+*.local
